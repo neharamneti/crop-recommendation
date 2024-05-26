@@ -1,2 +1,2 @@
 # crop-recommendation
-The Model focuses to predict the crop by analysing the factors like temperature ,humidity,ph etc using supervised machine learning techniques.
+The model aims to predict crop types or yields by analyzing factors such as temperature, humidity, and soil pH using supervised machine learning techniques. The data is  preprocessed by cleaning, handling missing values, and normalizing. Feature engineering is applied to create new, relevant features. The processed data is split into training and testing sets. Various supervised learning algorithms like  decision trees random forests are trained on the training set. 
